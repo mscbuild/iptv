@@ -157,6 +157,8 @@ And thank you to everyone who has already contributed!
 
 <a href="https://github.com/iptv-org/iptv/graphs/contributors"><img src="https://opencollective.com/iptv-org/contributors.svg?width=890" /></a>
 
+<p dir="auto"><a href="#contributors"><img src="https://camo.githubusercontent.com/5164a209b6a36c29c87efac5b0d5e664d9ab4d147b3c22584716df47940e4ed8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616c6c5f636f6e7472696275746f72732d31332d6f72616e67652e7376673f7374796c653d666c61742d737175617265" alt="All Contributors" data-canonical-src="https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square" style="max-width: 100%;"></a></p>
+
 ## Legal
 
 No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/iptv-org/iptv/pulls) or opening an [issue](https://github.com/iptv-org/iptv/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
@@ -164,5 +166,6 @@ No video files are stored in this repository. The repository simply contains use
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
 
 
