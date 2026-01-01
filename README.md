@@ -98,7 +98,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 - 👨‍💻 [API](#api)
 - 📚 [Resources](#resources)
 - 💬 [Discussions](#discussions)
-- ❓ [FAQ](#faq)
+- ❓ [FAQ](#FAQ.md)
 - 🛠 [Contribution](#contribution)
 - ⚖ [Legal](#legal)
 - © [License](#license)
@@ -166,6 +166,7 @@ No video files are stored in this repository. The repository simply contains use
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
 
 
 
